@@ -9,7 +9,7 @@ I collaborated with: [list sunetids here]
 
 I would like to credit/thank these classmates for their help: [list sunetids here]
 
-This lab took me about [n] hours to do. I [did/did not] attend the lab session.
+This lab took me about 10 hours to do. I [did/did not] attend the lab session.
 
 My secret code from section 2.1 was: [code here]
 
@@ -24,6 +24,7 @@ implementation time and difficulty, and other factors. Include any
 measurements if applicable.]
 
 - Optional: I had unexpected difficulty with: [describe]
+> I didn't realize that the return value of std::string_view(“\0”, 1) had a length of 1, witch made me debug long time
 
 - Optional: I think you could make this lab better by: [describe]
 
